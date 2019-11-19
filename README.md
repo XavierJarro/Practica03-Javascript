@@ -8,7 +8,7 @@
 
 
 ### Crear un repositorio en GitHub con el nombre “Practica03 – Javascript” 
-
+![imagen1](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen1.png)
 ### Realizar un commit y push por cada requerimiento de los puntos antes descritos.Para el desarrollo de esta práctica haremos uso del proyecto anterior, al cual le daremos estilos con CSS.
 Para esto debemos abrir el cmd y colocar los siguientes comandos, en el caso de Windows:
 - git init
