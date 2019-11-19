@@ -60,35 +60,35 @@ Al dar al botón iniciar la imagen cambia y se elige una imagen aleatoria de tod
 ![imagen13](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen13.png)
 
 #### Validación de un formulario.
-![imagen15](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen15.png)
+![imagen14](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen14.png)
 
 Al dar al botón aceptar nos mostrara los errores de campos vacíos.
-![imagen16](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen16.png)
+![imagen15](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen15.png)
 
 Se debe validar qué, en el campo del nombre, ingrese mínimo un nombre y que permita ingresar sólo letras. 
-![imagen17](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen17.png)  
+![imagen16](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen16.png)  
 
 Se debe validar qué, en el campo del apellido, ingrese mínimo un apellido y que permita ingresar sólo letras.
-![imagen18](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen18.png)
+![imagen17](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen17.png)
 
 Se debe validar qué, en el campo del teléfono, permita ingresar sólo números y un máximo de 10.
 Error cuando se ingresa una letra.
-![imagen19](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen19.png)
+![imagen18](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen18.png)
 
 Error cuando se ingresa más de 10 números.
-![imagen20](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen20.png)
+![imagen19](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen19.png)
 
 Se debe validar qué, en el campo de la cedula, se ingrese sólo números y que la misma sea correcta, en base, al último dígito verificador. 
-![imagen21](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen21.png)
+![imagen20](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen20.png)
 
 Se debe validar que la fecha de nacimiento ingrese en el formato dd/mm/yyyy
-![imagen22](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen22.png)
+![imagen21](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen21.png)
 
 Se debe validar qué, en el campo correo electrónico, permita ingresar un correo válido. Se considera un correo válido, cuando comienza por tres o más valores alfanuméricos, luego un @, seguido por la extensión “ups.edu.ec” o “est.ups.edu.ec”. 
-![imagen23](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen23.png)
+![imagen22](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen22.png)
 
 Se debe validar que la contraseña ingresada tenga mínimo 8 caracteres, además, debe incluir al menos: una letra mayúscula, una letra minúscula y un carácter especial (@, _, $) 
-![imagen24](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen24.png)
+![imagen23](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen23.png)
 
 ### El informe debe incluir conclusiones apropiadas. 
 - Mediante la investigación se pudo conocer nuevas formas de programar y resolver problemas con JavaScript.
