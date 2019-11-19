@@ -1,0 +1,14 @@
+label {
+    margin-top: 20px;
+}
+
+.error {
+    color: red;
+    font-size: 10px;
+}
+
+form {
+    margin-left: 25px;
+    width: 400px;
+    float: left;
+}
