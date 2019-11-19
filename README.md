@@ -20,5 +20,6 @@ Estos para la primera vez que se vaya a trabajar con el proyecto, después solo 
 - git add .
 - git commit -m "Nombre-Proyecto"
 - git push -u origin master
+
 Y para que esto funcione previamente debes haber instalado y configurado “Git for Windows”.
 
