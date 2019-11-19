@@ -1,0 +1,11 @@
+#imagen {
+    width: 80%;
+    height: 500px;
+    border-radius: 10px;
+}
+
+input {
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+}
