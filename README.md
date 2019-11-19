@@ -49,31 +49,44 @@ Debe incluir la evidencia del correcto diseño de las páginas HTML usando CSS. 
 #### Galería de fotos.
 Inicia aleatoriamente la imagen:
 ![imagen10](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen10.png)
+
 Al llegar a la última imagen el botón de siguiente se desactiva.
 ![imagen11](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen11.png)
+
 De igual manera al llegar a la primera imagen el botón anterior se desactiva.
 ![imagen12](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen12.png)
+
 Al dar al botón iniciar la imagen cambia y se elige una imagen aleatoria de todas las que hay.
 ![imagen13](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen13.png)
+
 #### Validación de un formulario.
 ![imagen15](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen15.png)
+
 Al dar al botón aceptar nos mostrara los errores de campos vacíos.
 ![imagen16](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen16.png)
+
 Se debe validar qué, en el campo del nombre, ingrese mínimo un nombre y que permita ingresar sólo letras. 
 ![imagen17](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen17.png)  
+
 Se debe validar qué, en el campo del apellido, ingrese mínimo un apellido y que permita ingresar sólo letras.
 ![imagen18](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen18.png)
+
 Se debe validar qué, en el campo del teléfono, permita ingresar sólo números y un máximo de 10.
 Error cuando se ingresa una letra.
 ![imagen19](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen19.png)
+
 Error cuando se ingresa más de 10 números.
 ![imagen20](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen02.png)
+
 Se debe validar qué, en el campo de la cedula, se ingrese sólo números y que la misma sea correcta, en base, al último dígito verificador. 
 ![imagen21](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen21.png)
+
 Se debe validar que la fecha de nacimiento ingrese en el formato dd/mm/yyyy
 ![imagen22](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen22.png)
+
 Se debe validar qué, en el campo correo electrónico, permita ingresar un correo válido. Se considera un correo válido, cuando comienza por tres o más valores alfanuméricos, luego un @, seguido por la extensión “ups.edu.ec” o “est.ups.edu.ec”. 
 ![imagen23](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen23.png)
+
 Se debe validar que la contraseña ingresada tenga mínimo 8 caracteres, además, debe incluir al menos: una letra mayúscula, una letra minúscula y un carácter especial (@, _, $) 
 ![imagen24](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen24.png)
 
