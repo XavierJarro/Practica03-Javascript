@@ -76,7 +76,7 @@ Error cuando se ingresa una letra.
 ![imagen19](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen19.png)
 
 Error cuando se ingresa más de 10 números.
-![imagen20](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen02.png)
+![imagen20](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen20.png)
 
 Se debe validar qué, en el campo de la cedula, se ingrese sólo números y que la misma sea correcta, en base, al último dígito verificador. 
 ![imagen21](https://github.com/XavierJarro/prueba/blob/master/imagenes/imagen21.png)
